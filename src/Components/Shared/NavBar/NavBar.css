@@ -1,0 +1,25 @@
+.navbar {
+  margin-bottom: 1em;
+  background-color: #009688;
+}
+
+.nav-item .home {
+  font-weight: 300;
+}
+
+.navbar-brand {
+  font-size: 1.2rem;
+  font-weight: 300;
+}
+
+.navbar-nav {
+  margin-left: 8px;
+}
+.nav-item > button {
+  font-weight: 300;
+  color: #fff;
+}
+
+.new-post {
+  border-color: #009688;
+}

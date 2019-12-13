@@ -1,0 +1,32 @@
+body {
+  background: #eeeded;
+  font-family: IRANSans;
+  font-weight: 300;
+  direction: rtl;
+}
+
+.button-Spinner {
+  margin-bottom: 3px;
+  margin-right: 8px;
+}
+
+.Toastify {
+  text-align: right;
+}
+
+.Toastify > div {
+  margin-top: 2.5rem;
+}
+
+.toast-error {
+  background-color: #dc3545;
+}
+
+.toast-success {
+  background-color: #28a745;
+}
+
+.toast-body {
+  font-family: IRANSans;
+  font-weight: 300;
+}

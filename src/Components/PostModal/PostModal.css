@@ -1,0 +1,10 @@
+.post-desc-editor {
+  height: 200px !important;
+  max-height: 200px;
+  resize: none;
+}
+
+.spinner-border {
+  margin-right: 5px;
+  margin-bottom: 2px;
+}

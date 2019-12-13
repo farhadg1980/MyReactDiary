@@ -1,0 +1,17 @@
+.header {
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.Toastify > div {
+  margin-top: 2.5rem;
+}
+
+.toast-error {
+  background-color: #dc3545;
+}
+
+.toast-success {
+  background-color: #28a745;
+}

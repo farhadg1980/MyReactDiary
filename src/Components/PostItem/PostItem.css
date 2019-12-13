@@ -1,0 +1,28 @@
+.post-item {
+  margin-bottom: 1rem;
+}
+
+.post-item .date {
+  position: absolute;
+  bottom: 0;
+  font-size: 14px;
+}
+
+.post-item .title {
+  color: #007bff;
+  margin-bottom: 1em;
+  margin-top: 15px;
+}
+
+.post-item .desc {
+  height: 190px;
+  overflow: hidden;
+}
+
+.post-item .date {
+  font-size: 14px;
+}
+
+.post-item .actions {
+  margin-bottom: 1rem;
+}
